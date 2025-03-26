@@ -1,8 +1,35 @@
-- 👋 Hi, I’m @Yfgig
-- 👀 I’m interested in ethical hacking related courses
-- 🌱 I’m currently learning mscit computer course
-- 💞️ I’m looking to collaborate on experts who intrest to teach me
-- 📫 How to reach me 
+👋 Hey, I’m @Yfgig
+
+🔎 OSINT Enthusiast | Cybersecurity Researcher | Ethical Hacker
+
+💻 I’m passionate about cybersecurity, OSINT investigations, and ethical hacking. I enjoy exploring digital forensics, penetration testing, and threat intelligence to uncover hidden information and strengthen security.
+
+🎓 Currently sharpening my skills while learning MS-CIT and working on cybersecurity projects.
+
+🚀 What I Do:
+
+ OSINT research & investigations
+
+ Cybersecurity tool development
+
+ Ethical hacking & security analysis
+
+
+🤝 Looking to collaborate with cybersecurity experts, ethical hackers, and OSINT professionals who share the same passion for digital security.
+
+📫 Connect with me:
+
+🌐 Website: osinters.bio/krishdhurve104
+
+📩 Email: meracybergondia@proton.me
+
+📷 Instagram (OSINT Content soon): @mera_cyber_gondia
+
+💬 Open to discussions on cybersecurity & OSINT!
+
+
+🔐 Security is not a product, it’s a process!
+
 
 <!---
 Yfgig/Yfgig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
